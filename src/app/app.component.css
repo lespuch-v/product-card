@@ -1,0 +1,23 @@
+.main-container{
+  display: flex;
+  flex-direction: row;
+  max-width: 1200px;
+}
+.header{
+  font-size: 4rem;
+}
+.title-text{
+  font-size: 2rem;
+}
+.pricing-big{
+  font-size: 4rem;
+}
+.pricing-small{
+  font-size: 2rem;
+}
+.parfume-img{
+  width: 500px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  padding-right: 30px;
+}
